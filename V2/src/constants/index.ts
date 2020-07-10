@@ -1,1 +1,1 @@
-export const APP_TITLE = "RickQL";
+export const APP_TITLE = "Rick And Morty QL";
